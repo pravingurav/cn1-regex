@@ -8,8 +8,7 @@ Currently (as of August 26, 2013), the Codename One String class doesn't include
 
 ## Current Status
 
-I whipped this up pretty quickly as a demo.  I have only tested so far in the simulator, but it looks like it should probably 
-be compatible with all platforms.
+I whipped this up pretty quickly.  So far I have only tested it in the simulator and on the iPhone (using a build server debug build).  I don't see any reason why it shouldn't work on all platforms, though.  If you have problems on any platform just let me know.
 
 ## Installation
 
